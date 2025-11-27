@@ -29,6 +29,6 @@ elif avg>60:
   print("D grade")
 elif avg>50:
   print("E grade")
-else 
+else:
 print("FAIL")
   
